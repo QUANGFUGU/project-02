@@ -101,6 +101,7 @@ a {
     /* font-weight: 600; */
 }
 
+
 .nav li:active a::after {
     content: "";
     position: absolute;
@@ -109,7 +110,6 @@ a {
     height: 2px;
     left: 21px;
     top: 28px;
-
     background: #171100;
     border-radius: 1px;
 }
