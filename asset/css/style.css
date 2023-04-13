@@ -260,6 +260,10 @@ a {
     border-radius: 50%;
 }
 
+.watch-video .icon .fas {
+    color: var(--primary-color);
+}
+
 .watch-video span {
     font-weight: 600;
     font-size: 1.8rem;
